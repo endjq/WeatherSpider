@@ -6,7 +6,7 @@ public class Last {
 		// TODO Auto-generated method stub
 		System.out.println("0---");
 		System.out.println("tyu77");
-
+		System.out.println("12q");
 	}
 
 }
