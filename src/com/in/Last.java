@@ -5,12 +5,7 @@ public class Last {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("0---");
-		System.out.println("0---ooo");
-
-		System.out.println("llll---ooo");
-
-                System.out.println("ssss---ooo");
-
+		System.out.println("12q");
 	}
 
 }
