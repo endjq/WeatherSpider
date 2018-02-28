@@ -7,6 +7,7 @@ public class Last {
 		System.out.println("0---");
 		System.out.println("tyu77");
 		System.out.println("12q");
+		int i = 0;
 	}
 
 }
