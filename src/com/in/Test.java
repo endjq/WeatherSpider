@@ -9,6 +9,7 @@ public class Test {
                 System.out.println("a");
 		System.out.println("ab");
 		int j = 8;
+		int k = 00;
 	}
 
 }
